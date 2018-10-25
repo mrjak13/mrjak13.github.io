@@ -1,11 +1,11 @@
 # Site settings
 author: Justin Kenney
-title: 
+title: Becoming More Than 1's and 0's
 header-img: img/home-bg.png
 email: justinkenney13@gmail.com
 copyright_name: Justin Kenney
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey through Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mrjak13
