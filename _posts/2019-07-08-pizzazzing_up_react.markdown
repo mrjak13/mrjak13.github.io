@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pizzazzing up React"
-date:       2019-07-08 13:40:49 +0000
+date:       2019-07-08 09:40:50 -0400
 permalink:  pizzazzing_up_react
 ---
 
@@ -11,6 +11,6 @@ After installing the packages (npm install react-bootstrap bootstrap) and dealin
 
 Now that my project's I's were dotted, T's were croseed, and it was polished with react-bootstrap I was finially finished.  So I thought.  For some reason "let's add animation" popped in my head and I couldn't get reid of it.  Tackling another library and the issues it'll cause is not something I had in mind, but there I went and it wasn't bad at all.  In fact I had zero issues with it.  Keep in mind I only used basic animations (simple fade ins).  Anyway, I used the react-reveal library for the animations.  Install it (npm install react-reveal --save), import your desired animation (import Fade from 'react-reveal/Fade';) Wrap your components in it(<Fade><Component /></Fade>) done...  
 
-I will be forever greatful for these libraries that bring beauty to my hard word.
+I will be forever greatful for these libraries that bring beauty to my hard work.
 
 Happy Coding!
